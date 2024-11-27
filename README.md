@@ -17,9 +17,9 @@ I’m a University of California Graduate with Bachelor of Science in Computer S
 
 **Skills**
 
-* Programming Languages: Python, Java
-* Frameworks: TensorFlow, PyTorch, [Other Frameworks]
-* Additional Skills: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
+| Languages | Frameworks/Libraries | Backend/DB | DevOps | AI/ML |
+|---|---|---|---|---|
+| Python, Java, TypeScript, JavaScript, HTML, CSS, C, C++, YAML, SQL | TensorFlow, PyTorch, Django, Flask, NumPy, Pandas, Scikit-learn, NodeJS, React, NextJS, ExpressJS, SpringBoot | Postgres, MongoDB, ProtoBufs, SQLAlchemy | Docker, Kubernetes, GKE, Linode, APISIX, KeyCloak, Ansible, Terraform | TensorFlow, PyTorch, Numpy, Pandas, ChromaDB, SciKit-learn, Apache-Spark, LangChain, LangGraph, QLoRa, LLMs |
 
 **Projects**
 
