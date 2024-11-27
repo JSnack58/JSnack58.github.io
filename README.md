@@ -19,7 +19,18 @@ I’m a University of California Graduate with Bachelor of Science in Computer S
 
 | Languages | Frameworks/Libraries | Backend/DB | DevOps | AI/ML |
 |---|---|---|---|---|
-| Python, Java, TypeScript, JavaScript, HTML, CSS, C, C++, YAML, SQL | TensorFlow, PyTorch, Django, Flask, NumPy, Pandas, Scikit-learn, NodeJS, React, NextJS, ExpressJS, SpringBoot | Postgres, MongoDB, ProtoBufs, SQLAlchemy | Docker, Kubernetes, GKE, Linode, APISIX, KeyCloak, Ansible, Terraform | TensorFlow, PyTorch, Numpy, Pandas, ChromaDB, SciKit-learn, Apache-Spark, LangChain, LangGraph, QLoRa, LLMs |
+| Python | TensorFlow | Postgres | Docker | TensorFlow |
+| Java | PyTorch | MongoDB | Kubernetes | PyTorch |
+| TypeScript | Django | ProtoBufs | GKE | Numpy |
+| JavaScript | Flask | SQLAlchemy | Linode | Pandas |
+| HTML | NumPy |  | APISIX | ChromaDB |
+| CSS | Pandas |  | KeyCloak | SciKit-learn |
+| C | Scikit-learn |  | Ansible | Apache-Spark |
+| C++ | NodeJS |  | Terraform | LangChain |
+| YAML | React |  |  | LangGraph |
+| SQL | NextJS |  |  | QLoRa |
+|  | ExpressJS |  |  | LLMs |
+|  | SpringBoot |  |  |  |
 
 **Projects**
 
