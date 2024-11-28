@@ -1,21 +1,16 @@
-# JSnack58.github.io
+# Anthony Frank
 
 # About Me
 
-* Anthony Frank
-* Master of Science in Artificial Intelligence, SJSU
+I'm a Masters student at San Jose State University studying Artificial Intelligence and Data Science. I previously was Computer Science student at UC Santa Cruz where I built a website for Researchers, trained AI Agents, and interned at NVIDIA AI for Gaming Team. After earning my Bachelor's I worked at Google as a Cloud Software Engineer and later moved toward FullStack Software Engineering and AI.
 
-I’m a University of California Graduate with Bachelor of Science in Computer Science pursuing a Masters in Artificial Intelligence and Data Science. I’ve been passionate about programming since high-school robotics, and chose to pursue CS Bachelors at UC Santa Cruz. There I built a website for Researchers, trained AI Agents, and interned at NVIDIA. Right after taking my degree, I accepted a Software job at Google where I experienced new technologies being developed. Invigorated to join in this development, I’m now pursuing a Masters in A.I. and Data Science.
+## Education
 
-**Education**
+### San Jose State University| M.S Artificial Intelligence 27'
 
-* **University:** San Jose State University (2024 - 2027)
-* **Program:** Master of Science in Artificial Intelligence
-* 
-* **University:** University of California Santa Cruz (2018 - 2022)
-* **Program:** Bachelor's of Science in Computer Science
+### University of California Santa Cruz| B.S Computer Science 22'
 
-**Skills**
+## Skills
 
 | Languages | Frameworks/Libraries | Backend/DB | DevOps | AI/ML |
 |---|---|---|---|---|
