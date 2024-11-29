@@ -56,14 +56,16 @@ I developed a website for UCSC's researchers and the National Ocean and Atmosphe
 I interned at NVIDIA's AI for Gaming team where I build an Electron-based desktop application for image & video comparison from the ground up. The applicaiton was crucial to NVIDIA's marketing strategy for current and future feature. I closely worked with th PM and UCD Experts to define the application's UX design, and developed the paplication with minimal supervision in a distributed team under tight market pressures.
 
 
-**Projects**
+## Projects
 
-1. **[Project 1 Title]**
-   * [Brief description]
-   * [Link to repository]
-2. **[Project 2 Title]**
-   * [Brief description]
-   * [Link to repository]
+### [Fine-tuning LLM for Medical Definitions(March 2024)](https://github.com/JSnack58/Fine-tuning-LLMs/tree/main)
+ Used QLoRA to fine-tune a local model with a medical definition dataset to explain medial terms.
+
+### [Web browsing LLM Agents - WebVoyager(February 2024)](https://github.com/JSnack58/WebVoyager.git)
+   Created an AI agent that autonomously navigates the web using LangChain, LangGraph, and Python Playwright. Designed its behavior using State Graphs and Prompt Engineering. Compared various LLMs, [published findings](https://docs.google.com/document/d/1UYHTq_1CeGcV1_RV0zBpgJIo_8zoc-VeL-pVUWEO7vc/edit?usp=sharing), and open-sourced the code.
+
+### [Trained Neural Net from Kubernetes Cluster- Names Generator(August 2023)](https://github.com/JSnack58/mongodb-trained-transformer)
+I developed a Python script that leverages PyTorch to construct and train an Artificial Neural Network (ANN). The script dynamically fetches training data from a MongoDB instance, seamlessly integrated within a Kubernetes cluster. This project provided invaluable hands-on experience with Kubernetes, Docker, Ingress Controllers, and the intricacies of neural network architectures. By successfully orchestrating these technologies, I gained a deep understanding of modern data engineering and machine learning pipelines.
 
 **Contact**
 
