@@ -1,4 +1,6 @@
 # Anthony Frank
+### Email: amclarenfrank@gmail.com
+### [LinkedIn](https://www.linkedin.com/in/anthony-f-396056126?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5bk8ObDEQEGtd5p4WL6tIw%3D%3D)
 
 # About Me
 
