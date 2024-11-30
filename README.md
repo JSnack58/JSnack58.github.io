@@ -69,16 +69,4 @@ I developed a Python script that leverages PyTorch to construct and train an Art
 
 **Contact**
 
-* [Your Email Address]
-
-**Getting Started**
-
-[Instructions for cloning your repository and setting up the environment]
-
-**License**
-
-[Specify the license for your code or content]
-
-**Contribution**
-
-[Guidelines for contributing to your projects]
+* acmclarenfrank@gmail.com
