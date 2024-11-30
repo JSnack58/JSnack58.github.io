@@ -66,7 +66,3 @@ I interned at NVIDIA's AI for Gaming team where I build an Electron-based deskto
 
 ### [Trained Neural Net from Kubernetes Cluster- Names Generator(August 2023)](https://github.com/JSnack58/mongodb-trained-transformer)
 I developed a Python script that leverages PyTorch to construct and train an Artificial Neural Network (ANN). The script dynamically fetches training data from a MongoDB instance, seamlessly integrated within a Kubernetes cluster. This project provided invaluable hands-on experience with Kubernetes, Docker, Ingress Controllers, and the intricacies of neural network architectures. By successfully orchestrating these technologies, I gained a deep understanding of modern data engineering and machine learning pipelines.
-
-**Contact**
-
-* acmclarenfrank@gmail.com
