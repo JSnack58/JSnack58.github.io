@@ -31,7 +31,8 @@ I'm a Masters student at San Jose State University studying Artificial Intellige
 
 ## Work Experience
 ### Contract FullStack Software Engineer Weir(Oct 2024 - Nov 2024)
-A starup needed a live prototype website to show to for their product within a month for CES. I worked with the Weir's CEO to form the users stories for website's design with API-first approach. For my tech stack used I used React as its Frontend, built the API with Flask, and stored user/business data in the MongoDB. Once built deployed the website on a Linode cluster I created using Terraform, and managed the cluster's environment with Ansible.
+A startup approached me to rapidly develop a live prototype website for CES within a month. Working closely with the CEO, I crafted user stories and adopted an API-first approach to design the product. For the tech stack, I selected React for the frontend, Flask for the API backend, and MongoDB for storing user and business data. The website was deployed on a Linode cluster, provisioned and managed using Terraform and Ansible.
+
 
 ### Contract FullStack Software Engineer My12Inch.com(July 2023 - Jan 2024)
 I modernized an outdated internal webpage, transitioning from a legacy Flex (Flash-based) system to a robust and efficient stack comprising ReactJS, Flask, and PostgreSQL. This overhaul significantly enhanced the user experience and performance. 
