@@ -66,5 +66,8 @@ I interned at NVIDIA's AI for Gaming team where I build an Electron-based deskto
 ### [Web browsing LLM Agents - WebVoyager(February 2024)](https://github.com/JSnack58/WebVoyager.git)
    Created an AI agent that autonomously navigates the web using LangChain, LangGraph, and Python Playwright. Designed its behavior using State Graphs and Prompt Engineering. Compared various LLMs, [published findings](https://docs.google.com/document/d/1UYHTq_1CeGcV1_RV0zBpgJIo_8zoc-VeL-pVUWEO7vc/edit?usp=sharing), and open-sourced the code.
 
+### [Secured SpringBoot Microservices(Dec 2023)](https://github.com/JSnack58/SpringBoot/)
+Created an immitation online-retail store using a host of microservices in the SpringBoot Framework using JPA Archicture for handling data to/from the database. I secured the microservices behind a Gateway that has SpringSecurity with KeyCloak authentication. 
+
 ### [Trained Neural Net from Kubernetes Cluster- Names Generator(August 2023)](https://github.com/JSnack58/mongodb-trained-transformer)
 I developed a Python script that leverages PyTorch to construct and train an Artificial Neural Network (ANN). The script dynamically fetches training data from a MongoDB instance, seamlessly integrated within a Kubernetes cluster. This project provided invaluable hands-on experience with Kubernetes, Docker, Ingress Controllers, and the intricacies of neural network architectures. By successfully orchestrating these technologies, I gained a deep understanding of modern data engineering and machine learning pipelines.
